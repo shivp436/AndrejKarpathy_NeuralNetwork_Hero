@@ -17,3 +17,14 @@ It implements gradient descent for a simple neural network.
 
 # 2. Makemore
 Makemore is character-level language model, which takes one text file as input, where each line is assumed to be one training example, and generates more text like it.
+
+Eg: If we feed it a text file with baby names, it will generate more baby name-like text.
+
+### Currently, these are the choice of models available:
+- [ ] Bigram
+- [ ] MLP
+- [ ] CNN
+- [ ] RNN
+- [ ] LSTM
+- [ ] GRU
+- [ ] Transformer
